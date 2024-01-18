@@ -29,7 +29,11 @@
         </section>
         <section id="hero">
             <img class="banner-image" src="3.jpeg" alt="Banner Image">
-            
+            <h4>Trade-in-offer</h4>
+            <h2>super value deals</h2>
+            <h1>on all products</h1>
+            <p>save more with coupons & up to 70% off!</p>
+            <button>Shop now</button>
         </section>
         <section id="feature" class="section-p1">
             <div class="fe-box">
